@@ -1,4 +1,4 @@
-const API_URL = 'https://mental-health-score-prediction-qor6.onrender.com';
+const API_URL = 'https://mental-health-score-prediction-qor6.onrender.com/predict';
 
 const form = document.getElementById('predictForm');
 const formPanel = document.getElementById('formPanel');
